@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+}
+.avatar {
+  display: flex;
+}
+.Container {
+  border: 1px solid gray;
+  width: 380px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  width: 190px;
+  height: 200px;
+}
+
+.info {
+  display: flex;
+  margin: 30px;
+  padding-left: 10px;
+}
+.p {
+  padding-right: 100px;
+  opacity: 0.5;
+}
+h2 {
+  margin-left: 5px;
+}

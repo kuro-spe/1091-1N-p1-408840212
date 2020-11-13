@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cen {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name {
+  padding: 18px;
+  background-color: cornflowerblue;
+}
+.title {
+  background-color: blue;
+  padding: 18px;
+}
+.weekday {
+  background-color: cyan;
+  padding: 18px;
+}
+.number {
+  background-color: darkgoldenrod;
+  padding: 18px;
+}
+.time {
+  background-color: darksalmon;
+}
+.classTime {
+  background-color: darkseagreen;
+}
+.info {
+  background-color: purple;
+  padding: 10px;
+}
+.footer {
+  background-color: gray;
+  padding: 10px;
+  border: 1px solid black;
+}

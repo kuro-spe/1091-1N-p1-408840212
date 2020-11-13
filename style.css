@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 30px;
+  text-align: center;
+  background-color: yellow;
+}
+.intro {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.ic {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+  padding: 50px;
+  background-color: aquamarine;
+}
+.para {
+  margin: 30px;
+  text-align: center;
+  font-size: medium;
+  background-color: yellowgreen;
+}

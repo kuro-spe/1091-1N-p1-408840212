@@ -1,0 +1,15 @@
+body{
+    margin:0px;
+}
+#line5{
+    display:flex;
+    flex-wrap: wrap;
+}
+#line5 img{
+    width:17.5%;
+    margin:1.1%;
+}
+#name{
+    font-size:100px;
+    border-bottom:1px solid #7FFFD4;
+}
